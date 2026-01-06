@@ -1,11 +1,5 @@
 # javascript-leap-year-check
-javascript
-# JavaScript Leap Year Checker
-
 This repository contains a simple JavaScript program to check whether a given year is a **leap year** or **not** using conditional statements.
-
----
-
 ##  What is a Leap Year?
 A year is a leap year if:
 - It is divisible by 4  
